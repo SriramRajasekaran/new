@@ -1,0 +1,14 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "new.test.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lambdatest/node-rest-client": "^1.0.0"
+  }
+}
